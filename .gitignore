@@ -1,0 +1,45 @@
+# LinkedIn images — keep locally, not in repo
+../linkedin_*.png
+linkedin_*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+.env.*
+*.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Runtime data
+jobs/*.json
+uploads/
+notebooks/*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/

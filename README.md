@@ -329,5 +329,5 @@ MIT — free to use, modify, and deploy for any purpose.
 
 ---
 
-*Built by [Manas Venkata Raghupatruni](https://github.com/Manas470) · May 2026*
+*Built by [Venkata Raghupatruni](https://github.com/Manas470) · May 2026*
 *Read the full design story — every alternative considered, every tradeoff made — in [THOUGHTS.md](THOUGHTS.md)*
